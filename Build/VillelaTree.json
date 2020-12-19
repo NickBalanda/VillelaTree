@@ -1,0 +1,16 @@
+{
+"companyName": "BalandaBros",
+"productName": "VillelaTree",
+"dataUrl": "VillelaTree.data.unityweb",
+"wasmCodeUrl": "VillelaTree.wasm.code.unityweb",
+"wasmFrameworkUrl": "VillelaTree.wasm.framework.unityweb",
+"asmCodeUrl": "VillelaTree.asm.code.unityweb",
+"asmMemoryUrl": "VillelaTree.asm.memory.unityweb",
+"asmFrameworkUrl": "VillelaTree.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
